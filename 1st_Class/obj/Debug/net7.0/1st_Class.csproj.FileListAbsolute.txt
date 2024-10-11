@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\1st_Class\1st_Class\bin\Debug\net7.0\1st_Class.exe
+C:\Users\asp\source\repos\1st_Class\1st_Class\bin\Debug\net7.0\1st_Class.deps.json
+C:\Users\asp\source\repos\1st_Class\1st_Class\bin\Debug\net7.0\1st_Class.runtimeconfig.json
+C:\Users\asp\source\repos\1st_Class\1st_Class\bin\Debug\net7.0\1st_Class.dll
+C:\Users\asp\source\repos\1st_Class\1st_Class\bin\Debug\net7.0\1st_Class.pdb
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.AssemblyInfo.cs
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.dll
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\refint\1st_Class.dll
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.pdb
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\1st_Class.genruntimeconfig.cache
+C:\Users\asp\source\repos\1st_Class\1st_Class\obj\Debug\net7.0\ref\1st_Class.dll
